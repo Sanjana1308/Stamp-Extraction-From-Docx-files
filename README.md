@@ -14,6 +14,8 @@ Run those images through the resnet model.
 
 Extract if Legal Ok stamp is present as an image.
 
+####Couldn't upload the model due to large size
+
 
 
 
